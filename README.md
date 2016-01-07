@@ -4,11 +4,14 @@ Udemy Course Assignment Solution
 Course Name:
 A 16 Hour C# Course With Microsoft Visual Studio 2013 
 
+Course url:
+https://www.udemy.com/csharpbasics/learn/#/
+
 Instructor:
 Tom Owsiak
 
-Course url:
-https://www.udemy.com/csharpbasics/learn/#/
+Student:
+Hyrum Z
 
 Lecture 80:
 Using Generic Dictionaries, and A Project
